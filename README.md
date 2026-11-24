@@ -1,4 +1,4 @@
-# ✨ README Playground
+## ✨ README Playground
 
 > A deliberately fancy README for testing Markdown renderers, Git hosting platforms, documentation themes, and preview components.
 
